@@ -2,8 +2,8 @@
 <br>
 
 ## **Install**
-```js
-npm i
+```js 
+npm i @discordjs/rest discord.js
 ```
 
 ## **Copyrights:**
