@@ -1,1 +1,6 @@
-# SlahCommandsLearn
+## **SlhaCOmmands** 👋
+
+# **Install**
+```js
+npm i
+```
