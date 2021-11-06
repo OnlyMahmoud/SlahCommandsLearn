@@ -1,6 +1,6 @@
 ## **SlhaCOmmands** 👋
 
-# **Install**
+## **Install**
 ```js
 npm i
 ```
